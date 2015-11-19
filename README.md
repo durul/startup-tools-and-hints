@@ -1,30 +1,98 @@
-Startup Araç ve İpuçları
+Startup Tools and Hints (Startup Araçları ve İpuçları)
 =======================
 
-- [Arayüz](#arayüz)
-- [Canlı Destek](#canlı destek)
-- [Mailing](#mailing)
-- [Seo](#seo)
-- [Santral Çözümleri](#santral çözümleri)
-- [Faturalama ve Ödeme Süreçleri](#ödeme sistemleri)
-- [Sunucu Çözümleri](#sunucu çözümleri)
-- [Ücretsiz İkon Tasarım PSD](#ücretsiz ikon template psd)
-- [Growth Hacking](#growth hacking)
-- [Ölçümleme & Analytics](#ölçümleme & analytics)
-- [Marketing](#Video & Caps)
-- [Müşteri Desteği](#Crm)
-- [Ürünü Yayına Alma](#Yardım Masaları)
-- [İnsan Kaynaklari](#Ik)
-- [Log İzleme](#Log)
-- [Arama](#Search)
-- [Muhasebe](#Finance)
+#### Project Management (Proje Yönetim Araçları)
+- http://www.breeze.pm/
+- https://www.blossom.co/
+- http://www.brightpod.com/
+- https://www.codementor.io/
+- http://canvazify.com/
+- http://www.getchime.com/
+- http://www.fusioo.com/
+- http://www.hiveflux.com/
+- http://knowlium.com/
+- http://siasto.com/
+- https://taskulu.com/
+- https://team.do/
+- https://www.twoodo.com
+- https://github.com/libreboard/libreboard
+- http://uberito.com/
+- http://yoke.io/
+- https://www.bitrix24.com/
+- https://basecamp.com/
+- http://www.aha.io/
+- https://producteev.com/
+- http://trello.com
+- http://podio.com
+- https://www.atlassian.com/software/jira
+- https://dapulse.com/
+- https://www.asana.com/
+- http://www.bitrix24.com/
+- https://www.wrike.com/
+- http://www.dobambam.com/
+- https://taiga.io/
+- https://freedcamp.com/
+- http://www.getsoloapp.com/
+- https://duetapp.com/
 
-#### Prototip Aracı
+#### Customer Service / Live Chat (Müşteri Destek Servisleri)
+- www.zopim.com
+- www.jivochat.com
+- http://www.zendesk.com/
+- http://www.desk.com/
+- http://www.uservoice.com
+- http://www.helpscout.net
+- http://www.groovehq.com
+- http://www.intercom.io
+- http://www.tenderapp.com
+- http://www.supportfu.com
+- http://www.freshdesk.com
+- http://www.userdeck.com
+- http://www.sirportly.com
+- http://www.olark.com
+- http://www.snapengage.com
+
+#### Server & Hosting (Sunucu Çözümleri)
+- http://www.digitalocean.com
+- http://aws.amazon.com/ec2/
+- https://www.heroku.com/
+- http://www.bustaname.com
+- http://www.linode.com
+- http://www.ramnode.com
+- http://www.vultr.com
+- http://www.vps.me/
+
+#### Communication (Takım İçi İletişim)
+- http://www.slack.com
+- https://hall.com
+- http://www.kandanapp.com
+- http://www.yammer.com
+- http://www.limechat
+- http://www.flowdock
+- http://www.hipchat.com
+- http://www.campfire
+- http://www.skype.com
+- http://www.gotomeeting.com/online/default
+- http://www.irccloud.com
+- http://www.kato.im
+- http://www.convo.com
+- http://www.sqwiggle.com
+
+#### Dashboard / Analytics (Ölçümleme & Analytics)
+- http://www.google.com/analytics/
+- https://www.kissmetrics.com/
+- https://metrica.yandex.com.tr
+- http://www.webanalitigi.com/olcumleme-araclari/
+- http://www.intercom.io
+- https://segment.com/
+- http://www.crazyegg.com/
+
+#### Prototype Tools (Prototip Araçları)
 - http://www.invisionapp.com/
 - http://www.proto.io
 - http://www.tapcanvas.com
 
-#### Arayüz
+#### User Interface (Arayüz Servisleri)
 - http://dandkagency.com/extensions/velositey-v2/
 - www.uxpin.com Direkt olarak site üzerinde arayüz tasarlanabiliyor.
 - http://www.pixelapse.com
@@ -33,21 +101,22 @@ Startup Araç ve İpuçları
 - http://www.layervault.com
 - http://www.invisionapp.com
 
-#### Site Trafiğini Büyütmek İçin
+#### Tools to Grow Your Website’s Traffic (Web Sitenizin trafiğini büyütmek için araçlar)
 - http://sumome.com/
 
-#### Müşteri Destek Servisleri
-- www.zopim.com
-- www.jivochat.com
-- http://www.zendesk.com/
-- http://www.desk.com/
+#### Marketing (Pazarlama)
+- http://www.goanimate.com
 
-#### Mailing
-- www.mailjet.com
-- www.mailchimp.com
-- http://www.getresponse.com.tr/
-- http://www.sendloop.com
-- http://www.userfox.com
+  ##### E-mail Marketing (E-posta Pazarlama)
+  - http://www.customer.io
+  - http://www.getvero.com
+  - http://www.mailchimp.com
+  - http://www.campaignmonitor.com
+  - http://www.intercom.io
+  - http://www.mailjet.com
+  - http://www.getresponse.com.tr/
+  - http://www.sendloop.com
+  - http://www.userfox.com
 
 #### SEO
 - Seo Araçları: http://www.slideshare.net/webrazzi/yigit-konur-seo-tools-tricks
@@ -61,8 +130,8 @@ Startup Araç ve İpuçları
 #### Santral Çözümler
 - http://bulutfon.com
 
-#### Faturalama ve Ödeme Süreçleri
-- www.payu.com.tr
+#### Sanal Pos & Ödeme Entegrasyonları
+- http://www.payu.com.tr
 - https://www.iyzico.com/
 - https://www.braintreepayments.com
 - https://www.balancedpayments.com
@@ -76,15 +145,7 @@ Startup Araç ve İpuçları
 - https://www.core.spreedly.com
 - https://www.wepay.com
 
-#### Sunucu Çözümleri
-- http://www.digitalocean.com
-- http://aws.amazon.com/ec2/
-- http://www.bustaname.com
-- http://www.linode.com
-- http://www.ramnode.com
-- http://www.vultr.com
-
-#### Ücretsiz İcon Template PSD
+#### Free Icon, Template, PSD (Ücretsiz İcon Template PSD)
 - http://digitalsynopsis.com/tools/free-flat-design-icons/
 - http://freebiesbug.com/code-stuff/html-website-templates/
 - https://www.behance.net/search?content=projects&user_tags=973679
@@ -99,57 +160,23 @@ Startup Araç ve İpuçları
 #### Hızlandırma Programları
 - http://www.turn8.co/
 
-#### API Oluşturma Araçları
+#### Tools to create API (API Oluşturma Araçları)
 - https://magic.import.io/
 - https://www.kimonolabs.com/
 - http://www.optlook.net
 - http://deployd.com/
 
-#### Ölçümleme & Analytics
-- http://www.google.com/analytics/
-- https://www.kissmetrics.com/
-- https://metrica.yandex.com.tr
-- http://www.webanalitigi.com/olcumleme-araclari/
-- http://www.intercom.io
-- https://segment.com/
-- http://www.crazyegg.com/
-
 ###### Ölçümleme & Analytics Makale ve Bloglar
 - http://www.webanalitigi.com/
 
-#### A/B Test Araçları
+#### A/B Test (A/B Test Araçları)
 - https://vwo.com/ Microsoft, Foursquare gibi önemli referansları olan, görsel değişimleri önemseyen basit bir servis.
 - www.optimizely.com
 
-#### Takım İçi İletişim
-- http://www.slack.com
-- https://hall.com
-- http://www.kandan
-- http://www.yammer.com
-- http://www.limechat
-- http://www.flowdock
-- http://www.hipchat.com
-- http://www.campfire
-- http://www.skype.com
-- http://www.gotomeeting.com/online/default
-- http://www.irccloud.com
-- http://www.kato.im
-- http://www.convo.com
-- http://www.sqwiggle.com
-
-
-#### Sunucu Yönetimi
+#### Server Management (Sunucu Yönetimi)
 - https://commando.io/
 
-#### Proje Yönetim Araçları
-- https://producteev.com/
-- http://trello.com
-- http://podio.com
-- https://www.atlassian.com/software/jira
-- https://dapulse.com/
-- https://www.asana.com/
-
-#### Güvenlik Araçları
+#### Security (Güvenlik Araçları)
 - https://detectify.com/
 
 #### Medya Takip Araçları
@@ -164,62 +191,25 @@ Startup Araç ve İpuçları
 - http://www.google.com/webmasters/
 - http://gtmetrix.com/
 
-#### Anket Araçları
+#### Survey (Anket Araçları)
 - http://www.surveymonkey.com
 
-#### Web Site Browser Test Araçları
+#### Web Site Browser Test
 - http://www.browserstack.com/
 
-#### Muhasebe Araçları
+#### Muhasebe ve Faturalama Araçları
 - https://www.waveapps.com/
 - http://parasut.com
-
-#### Diğer Araçlar
-- http://peek.usertesting.com/ (Ücretsiz Gerçek Kullanıcılar tarafından, uygulaman test edilsin)
-- http://www.producthunt.com/e/startup-toolkit
-- http://www.consumerbarometer.com/#?app=home&viewMode=0 (Google Kullanıcı Verileri)
-- http://ciz.io/ (İş modelini vb.  kanvas çizimler ile oluşturabileceğin araç)
-- https://www.hellobar.com/
-- https://webengage.com/ (Müşteri feedback, anket, kampanya, bildirim aracı)
-- https://spaces.pe/ (Spaces kullanıcıların uygulamalarına çok kolay bir şekilde ödeme ekranı ve abonelik modeli ekleyebilmelerine olanak sağlıyor.)
-
-# Makaleler
-
-#### Renklerin Önemi
-- http://eticaretmag.com/e-ticaret-sitenizde-renklerin-onemi-infografik/
-- http://eticaretmag.com/renk-kullanimi-satisi-nasil-etkiler/
-- http://eticaretmag.com/satin-alma-davranislarinda-renklerin-onemi/
-- http://eticaretmag.com/e-ticaret-siteleri-icin-dogru-renk-kullanimi/
-- http://eticaretmag.com/web-sitenizin-renkleri-satin-alimlari-etkiliyor/
-
-#### A/B Testi
-- http://www.userspots.com/ab-testi/
-- http://www.smashingmagazine.com/2010/06/24/the-ultimate-guide-to-a-b-testing/ (A/B testi hakkında geniş bir kaynak çalışma)
-
-#### Marketing
-- http://www.goanimate.com
-
-  #E-posta Pazarlama
-  - http://www.customer.io
-  - http://www.getvero.com
-  - http://www.mailChimp
-  - http://www.campaignmonitor.com
-  - http://www.intercom.io
-
-#### Müşteri Desteği / Yardım Masaları
-- http://www.uservoice.com
-- http://www.desk.com
-- http://www.helpscout.net
-- http://www.zendesk.com
-- http://www.groovehq.com
-- http://www.intercom.io
-- http://www.tenderapp.com
-- http://www.supportfu.com
-- http://www.freshdesk.com
-- http://www.userdeck.com
-- http://www.sirportly.com
-- http://www.olark.com
-- http://www.snapengage.com
+- http://www.getharvest.com
+- http://www.getballpark.com
+- http://www.paysimple.com
+- http://www.acceptpay.com
+- http://www.freshbooks.com
+- http://www.freeagent.com
+- http://www.blinksale.com
+- http://www.cashboardapp.com
+- http://www.paydirtapp.com
+- http://www.spiketime.net
 
 #### Ürünü Yayına Alma
 - http://www.getchef.com
@@ -237,11 +227,10 @@ Startup Araç ve İpuçları
 - http://www.appveyor.com
 - http://www.circleci.com
 - http://www.codeclimate.com
-- http://www.semaphoreapp.com
+- http://www.semaphoreci.com
 - http://www.cruisecontrolrb.thoughtworks.com
 - http://www.integrityapp.com
 - http://www.tddium.com
-- http://www.semaphoreapp.com
 - http://www.jenkins-ci.org
 - http://www.atlassian.com/software/bamboo
 - http://www.buildbox.io
@@ -281,19 +270,16 @@ Startup Araç ve İpuçları
 - http://www.appneta.com
 - http://www.riemann.io
 - http://www.github.com/twitter/zipkin
-- http://www.github.com/heroku/pulse
 - http://www.pingdom.com
 - http://www.uptimerobot.com
 - http://www.wheresitup.com
 
-#### Muhasebe/Faturalama
-- http://www.getharvest.com
-- http://www.getballpark.com
-- http://www.paysimple.com
-- http://www.acceptpay.com
-- http://www.freshbooks.com
-- http://www.freeagent.com
-- http://www.blinksale.com
-- http://www.cashboardapp.com
-- http://www.paydirtapp.com
-- http://www.spiketime.net
+#### Diğer Araçlar
+- https://toolyo.com/ (Birçok aracın kategorilere göre listelendiği web sitesi)
+- http://peek.usertesting.com/ (Ücretsiz Gerçek Kullanıcılar tarafından, uygulaman test edilsin)
+- http://www.producthunt.com/e/startup-toolkit
+- http://www.consumerbarometer.com/#?app=home&viewMode=0 (Google Kullanıcı Verileri)
+- http://ciz.io/ (İş modelini vb.  kanvas çizimler ile oluşturabileceğin araç)
+- https://www.hellobar.com/
+- https://webengage.com/ (Müşteri feedback, anket, kampanya, bildirim aracı)
+- https://spaces.pe/ (Spaces kullanıcıların uygulamalarına çok kolay bir şekilde ödeme ekranı ve abonelik modeli ekleyebilmelerine olanak sağlıyor.)
